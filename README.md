@@ -1,3 +1,5 @@
+THIS IS THE MASTETHIS IS THE MASTERR
+
 == README
 
 This README would normally document whatever steps are necessary to get the
@@ -27,3 +29,4 @@ Things you may want to cover:
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
 https://obscure-basin-50058.herokuapp.com/ | https://git.heroku.com/obscure-basin-50058.git
+-- Something random -- delete -- 
